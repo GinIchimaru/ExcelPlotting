@@ -11,4 +11,4 @@ In addition, I plan to write a few *wordy* tutorials which, at the time being, I
 
   * [Lame intro](https://www.linkedin.com/pulse/plotting-excel-part-1-introduction-milos-cipovic/);
   * [Fan chart](https://www.linkedin.com/pulse/plotting-excel-part-2-fan-chart-graph-5-seconds-milos-cipovic/) and [probability chart](https://www.linkedin.com/pulse/plotting-excel-part-21-probability-chart-milos-cipovic/)  
-  * 
+  * [QQ plot](https://www.linkedin.com/post/edit/6478744526604378112/)
