@@ -2,7 +2,7 @@
 User defined functions for calling some special types of charts from excel cell. 
 
 ## Mission statement:
-*To have a relatively convenient and easy way to obtain some non standard charts in excel and to keep the ability build on them more complex solutions without loosing the flexibility*
+*To have a relatively convenient and easy way to obtain some non standard charts in Excel without loosing the flexibility of editing them*
 
 ## Prolog
 The library is an Excel add-in file called Plotting.xlam. After you install this add-in ([Plotting.xml](https://github.com/GinIchimaru/ExcelPlotting/blob/master/Plotting.xlam)) the usual way, you can open [TEST.xlsm](https://github.com/GinIchimaru/ExcelPlotting/blob/master/TEST.xlsm) and go through some of the examples.
